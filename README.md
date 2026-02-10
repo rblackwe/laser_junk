@@ -8,3 +8,6 @@ curl -L `
 
 
 printf 'LOADFILE:C:\\\\Users\\\\Protohaven Member\\\\123block.lbrn2' | nc -u -w1 192.168.1.45 19840
+
+
+printf 'LOADFILE:C:\\\\Users\\\\Protohaven Member\\\\123block.lbrn2' | nc -u -w1 192.168.1.82 19840
